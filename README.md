@@ -20,3 +20,9 @@ Note: If you host your front-end application on IIS other than port number 91, y
 
 # API references
 You may check the API via Swagger: http://localhost:91/swagger
+
+
+# Video demo
+
+https://user-images.githubusercontent.com/93577252/151668965-c41279be-0bb2-40d0-a416-07bf04b7baa2.mp4
+
