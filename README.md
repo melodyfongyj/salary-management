@@ -5,6 +5,7 @@ Back-end: salary-management (.NET Core)
 
 Front-end: salary-management-frontend (Angular)
 
+
 Project Description: Employees will be able to log in and view their personal, work, bank and salary information. Employees are able to update their personal and bank details.
 There will also be an administrator who will be in charge of creating employee accounts, updating salaries as well as modifying other information.
 
