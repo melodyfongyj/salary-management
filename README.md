@@ -1,4 +1,4 @@
-# Introduction 
+# Salary Management system (Back-end) 
 This project was developed to test my .NET and Angular knowledge. Salary Management system consists of 2 applications.
 
 Back-end: salary-management (.NET Core)
