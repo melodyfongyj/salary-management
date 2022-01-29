@@ -33,7 +33,7 @@ namespace SalaryManagement
                 options.AddDefaultPolicy(
                     builder =>
                     {
-                        builder.WithOrigins("http://localhost:81", "http://localhost:4200") 
+                        builder.WithOrigins("http://localhost:91", "http://localhost:4200") 
                         .AllowAnyMethod()
                         .AllowAnyHeader()
                         .SetIsOriginAllowed(origin => true)
